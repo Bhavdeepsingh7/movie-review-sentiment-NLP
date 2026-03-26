@@ -3,3 +3,4 @@ matplotlib
 pandas
 scikit-learn
 tqdm
+h5py==3.8.0
